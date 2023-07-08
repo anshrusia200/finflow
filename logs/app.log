@@ -90,3 +90,5 @@
 2023-07-08T09:42:26.369Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
 2023-07-08T09:42:26.427Z | INFO   | API HIT : [POST] /api/group/v1/user
 2023-07-08T09:42:26.695Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:52:00.025Z | INFO   | Server started in PORT | 3001
+2023-07-08T09:52:02.746Z | INFO   | DB Connection Established

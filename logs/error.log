@@ -7,3 +7,17 @@
 2023-07-08T09:40:01.757Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
 2023-07-08T09:40:42.958Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
 2023-07-08T09:40:42.963Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:38.739Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:38.747Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:40.618Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:40.631Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:43.566Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:45.159Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:56.056Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:56.143Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:58.475Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:58.476Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:42:15.434Z | ERROR  | URL : /api/users/v1/updatePassword | staus : 400 | message: Old Password does not match Error: Old Password does not match
+    at exports.updatePassword (C:\Users\anshr\Desktop\finflow\components\user.js:270:23)
+2023-07-08T09:42:26.058Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:42:26.369Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user

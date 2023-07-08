@@ -38,3 +38,55 @@
 2023-07-08T09:40:42.963Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
 2023-07-08T09:40:43.008Z | INFO   | API HIT : [POST] /api/group/v1/user
 2023-07-08T09:40:43.009Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:38.493Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:41:38.497Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:41:38.739Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:38.747Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:38.752Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:39.077Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:40.375Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:41:40.377Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:41:40.618Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:40.631Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:40.861Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:40.948Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:42.108Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2023-07-08T09:41:42.371Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2023-07-08T09:41:43.062Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:43.064Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:43.325Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:41:43.491Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:41:43.566Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:43.577Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:45.159Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:45.486Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:52.752Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2023-07-08T09:41:53.001Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2023-07-08T09:41:54.687Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2023-07-08T09:41:54.935Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2023-07-08T09:41:55.571Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:55.574Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:55.817Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:41:55.900Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:41:56.056Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:56.068Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:56.143Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:56.472Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:58.232Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:41:58.235Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:41:58.475Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:58.476Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:41:58.485Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:41:58.795Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:42:00.966Z | INFO   | API HIT : [POST] /api/users/v1/view
+2023-07-08T09:42:01.268Z | INFO   | API HIT : [POST] /api/users/v1/view
+2023-07-08T09:42:15.008Z | INFO   | API HIT : [POST] /api/users/v1/updatePassword
+2023-07-08T09:42:15.434Z | ERROR  | URL : /api/users/v1/updatePassword | staus : 400 | message: Old Password does not match Error: Old Password does not match
+    at exports.updatePassword (C:\Users\anshr\Desktop\finflow\components\user.js:270:23)
+2023-07-08T09:42:21.864Z | INFO   | API HIT : [POST] /api/users/v1/updatePassword
+2023-07-08T09:42:25.807Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:42:26.058Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:42:26.111Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:42:26.369Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:42:26.427Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:42:26.695Z | INFO   | API HIT : [POST] /api/group/v1/user

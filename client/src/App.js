@@ -1,7 +1,6 @@
 // theme
-import ThemeProvider from './theme';
-import Router from './routes'
-
+import ThemeProvider from "./theme";
+import Router from "./routes";
 
 function App() {
   return (

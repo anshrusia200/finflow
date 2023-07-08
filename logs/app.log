@@ -1,0 +1,11 @@
+2023-07-08T09:11:03.597Z | INFO   | Server started in PORT | 3001
+2023-07-08T09:13:09.840Z | INFO   | Server started in PORT | 3001
+2023-07-08T09:13:18.099Z | INFO   | DB Connection Established
+2023-07-08T09:18:24.053Z | INFO   | API HIT : [GET] /main.f8b6865a74f5c3180c23.hot-update.json
+2023-07-08T09:18:24.055Z | ERROR  | [Invalid Route] /main.f8b6865a74f5c3180c23.hot-update.json
+2023-07-08T09:34:32.379Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:34:32.515Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:34:34.538Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:34:34.556Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:34:34.575Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:34:34.896Z | INFO   | API HIT : [POST] /api/group/v1/user

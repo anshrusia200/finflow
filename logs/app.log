@@ -9,3 +9,32 @@
 2023-07-08T09:34:34.556Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
 2023-07-08T09:34:34.575Z | INFO   | API HIT : [POST] /api/group/v1/user
 2023-07-08T09:34:34.896Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:39:41.032Z | INFO   | API HIT : [POST] /api/users/v1/login
+2023-07-08T09:39:41.653Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:39:41.756Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:39:41.913Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:39:42.006Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:39:42.238Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:39:42.333Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:39:48.502Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:39:48.808Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:39:52.811Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:39:52.814Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:39:55.112Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:39:55.420Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:39:57.204Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2023-07-08T09:39:57.464Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2023-07-08T09:39:59.616Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:39:59.618Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:39:59.992Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:40:00.299Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:40:00.541Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:40:00.901Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:40:01.757Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:40:02.071Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:40:42.711Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:40:42.713Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2023-07-08T09:40:42.958Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:40:42.963Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:40:43.008Z | INFO   | API HIT : [POST] /api/group/v1/user
+2023-07-08T09:40:43.009Z | INFO   | API HIT : [POST] /api/group/v1/user

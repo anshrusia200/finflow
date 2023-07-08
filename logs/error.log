@@ -1,3 +1,9 @@
 2023-07-08T09:18:24.055Z | ERROR  | [Invalid Route] /main.f8b6865a74f5c3180c23.hot-update.json
 2023-07-08T09:34:34.538Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
 2023-07-08T09:34:34.556Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:39:41.913Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:39:42.006Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:40:00.541Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:40:01.757Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:40:42.958Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2023-07-08T09:40:42.963Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
